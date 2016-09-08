@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Go Weather</string>
+
+    <string name="coord_hint">Coordinates</string>
+    <string name="temp_hint">XX°C</string>
+    <string name="place_hint">Place</string>
+    <string name="humidity_hint">Humidity</string>
+    <string name="description_hint">Description</string>
+    <string name="date_hint">Date</string>
+    <string name="day_hint">Day</string>
+
+    <!-- LIST ITEM DETAILS -->
+    <string name="list_day_hint">Day</string>
+    <string name="list_temp_hint">XX°C</string>
+</resources>
