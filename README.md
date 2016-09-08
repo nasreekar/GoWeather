@@ -14,7 +14,7 @@ The API is available here: http://openweathermap.org/api
 
 2.  App Screenshot
 
-![screenshot_2016-09-08-19-33-17](https://cloud.githubusercontent.com/assets/13792317/18348196/9a1566b2-75fc-11e6-8f5e-73b80baf56ac.png)
+![screenshot_2016-09-08-19-33-17](https://cloud.githubusercontent.com/assets/13792317/18349110/0571e8fe-7602-11e6-8a92-72dcac855d71.png)
 
 3. Demo
 
