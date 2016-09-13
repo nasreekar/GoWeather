@@ -1,4 +1,4 @@
-# GoWeather
+# GoWeather (Android App)
 A weather app that uses OpenWeatherMap API to get the current weather conditions at a location. 
 The API is available here: http://openweathermap.org/api
 
